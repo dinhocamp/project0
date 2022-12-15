@@ -1,5 +1,5 @@
 numpy
 pandas
-matplotlib.pyplot 
-Scatter
+matplotlib.pyplot
+plotly.graph_objs
 plotly.io
